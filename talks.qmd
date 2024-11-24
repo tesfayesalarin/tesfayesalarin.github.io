@@ -1,0 +1,83 @@
+# Conferences
+
+<div style="text-align: justify;">
+
+**11th International Conference MATHEMATICAL AND STATISTICAL METHODS FOR ACTUARIAL SCIENCES AND FINANCE (MAF2024)** (Presenter)
+
+- **Location:** University of Le Havre Normandie, Le Havre Cedex (France)
+
+- **Date:** April 4-6, 2024
+
+- **Visit the event:** [MAF24](https://sites.google.com/unisa.it/maf-2024/)
+
+**69th Euro Working Group for Commodity and Financial Modelling (EWGCFM) Meeting - "The role of sustainable finance on financial and commodity markets"** (Presenter)
+
+- **Location:** University of Warsaw, Warsaw (Poland)
+
+- **Date:** May 21-25, 2024
+
+- **Visit the event:** [EWGCFM69TH](https://www.ewgfm.eu/Meetings)
+
+**2nd Finance and Business Analytics Conference and ** (Presenter)
+
+- **Location:** University of Athens, Athens (Greece)
+
+- **Date:** June 11-13, 2024
+
+- **Visit the event:** [FBA](https://fba-conference.com/)
+
+**Global Finance Conference"** (Presenter)
+
+- **Location:** University of Cagliari, Cagliari (Italy)
+
+- **Date:** June 18-20, 2024
+
+- **Visit the event:** [GLOFIN](https://www.adeimf.it/wp/2024/01/02/the-31st-annual-global-finance-conference/)
+
+**5th PhD Showcase (UCL)"** (Presenter)
+
+- **Location:** University College of London, London (United Kingdom)
+
+- **Date:** November 13, 2024
+
+- **Visit the event:** [5th_PhD_Showcase_UCL](https://www.linkedin.com/posts/financial-computing-and-analytics-university-college-london_following-an-inspiring-start-our-next-speakers-activity-7262515481574551555-kxLF?utm_source=share&utm_medium=member_desktop)
+
+</div>
+
+# Workshops
+
+<div style="text-align: justify;">
+
+**Generative AI in Finance SI Paper Development Workshop** (Attendant)
+
+- **Location:** Impact Hub Dresden - Galerie, Dresden (Germany)
+
+- **Date:** July, 5th 2024
+
+- **Visit the event:** [GenAI](https://tu-dresden.de/bu/wirtschaft/bwl/finance/events/genai-workshop)
+
+**Algo-trading & DeFi Methods and Technologies Workshop** (Attendant)
+
+- **Location:** Politecnico di Milano, Milano (Italy)
+
+- **Date:** November 7-8, 2024
+
+- **Visit the event:** [ALGODEFI24](https://www.mate.polimi.it/events/ALGODEFI24/?cn-reloaded=1&cn-reloaded=1)
+
+
+
+</div>
+
+# Talks
+
+<div style="text-align: justify;">
+
+**Blockchain Technology and Sustainability**
+
+- **Location:** University College of London, (London, UK)
+
+- **Date:** November 4, 2024
+
+- **Visit the event** [Blockchain Technology and Sustainability](https://sites.google.com/view/blockchainandsustainability/home)
+
+</div>
