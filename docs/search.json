@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Tesfaye (Sebastiano) Salarin is currently a PhD student in Economics and Management at the University of Trento and a Visiting PhD at the Department of Computer Science of the University College of London with the Financial Computing and Analytics research group. He holds an MSc in Finance from Cà Foscari University. His research focuses on Market Microstructure, High-Frequency Trading, Algorithmic Trading, and Computational Finance. Lately, he has been broadening his research interests to Machine Learning applications and Mathematical Finance, with a specific focus on using NLP models for financial market prediction. He is passionate about learning, FinTech, Blockchain Technology, and Cryptocurrencies. He has teaching experience in Computer Programming with RStudio and Microeconomics (double language: English and Italian). He is also interested in the intersection of LLMs and financial markets. Tesfaye is currently open to opportunities in quantitative research beginning after the completion of his PhD."
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "my_academicwebsite",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 24, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 21, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Recent works",
+    "section": "",
+    "text": "I am actively involved in research at the intersection of finance, technology, and economics. My work explores topics such as high-frequency trading, market microstructure, and the application of machine learning in financial markets. I am also exploring the role of blockchain in sustainable finance. Stay tuned for my upcoming publications and contributions to the field."
+  },
+  {
+    "objectID": "Publications.html#salarin-t.-et-al.-2024.-estimating-the-short-term-stock-market-reaction-to-non-financial-information-an-event-study-approach-on-esg-news.",
+    "href": "Publications.html#salarin-t.-et-al.-2024.-estimating-the-short-term-stock-market-reaction-to-non-financial-information-an-event-study-approach-on-esg-news.",
+    "title": "Recent works",
+    "section": "1. Salarin, T., et al. (2024). Estimating the short-term stock market reaction to non-financial information: An event-study approach on ESG news.",
+    "text": "1. Salarin, T., et al. (2024). Estimating the short-term stock market reaction to non-financial information: An event-study approach on ESG news.\n\nAbstract : Using an event-study approach, this study investigates the intraday stock market response to firm-specific Environmental, Social, and Governance (ESG) news. Leveraging a unique dataset comprising intraday financial data and 1,381 ESG-related news headlines from 30 Dow Jones Industrial Average (DJIA) companies between January and March 2023, we examine the impact of ESG news on trading volumes and stock returns. News is classified by ESG pillar and sentiment using GPT-4, a state of the art of Large Language Models (LLM). Our findings indicate that environmental news leads to short-term positive stock price reactions, although the effect dissipates beyond a 21-minute window. Social news generates inconsistent and minor market responses, while governance news significantly impacts stock returns, with negative governance news having the most pronounced and persistent negative effects. These results provide new insights into the role of ESG news in high-frequency trading environments and suggest that governance issues might be a crucial concern for investors in the short term.\n\nKeywords: ESG news, ESG sentiment, event-study, intraday stock returns, AI, high-frequency trading\n\nUpdate: Currently under submission to Journal of Banking and Finance, Generative AI in Finance Special Issue GenAI."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "Conferences\n\n11th International Conference MATHEMATICAL AND STATISTICAL METHODS FOR ACTUARIAL SCIENCES AND FINANCE (MAF2024) (Presenter)\n\nLocation: University of Le Havre Normandie, Le Havre Cedex (France)\nDate: April 4-6, 2024\nVisit the event: MAF24\n\n69th Euro Working Group for Commodity and Financial Modelling (EWGCFM) Meeting - “The role of sustainable finance on financial and commodity markets” (Presenter)\n\nLocation: University of Warsaw, Warsaw (Poland)\nDate: May 21-25, 2024\nVisit the event: EWGCFM69TH\n\n2nd Finance and Business Analytics Conference and  (Presenter)\n\nLocation: University of Athens, Athens (Greece)\nDate: June 11-13, 2024\nVisit the event: FBA\n\nGlobal Finance Conference” (Presenter)\n\nLocation: University of Cagliari, Cagliari (Italy)\nDate: June 18-20, 2024\nVisit the event: GLOFIN\n\n5th PhD Showcase (UCL)“ (Presenter)\n\nLocation: University College of London, London (United Kingdom)\nDate: November 13, 2024\nVisit the event: 5th_PhD_Showcase_UCL\n\n\n\n\nWorkshops\n\nGenerative AI in Finance SI Paper Development Workshop (Attendant)\n\nLocation: Impact Hub Dresden - Galerie, Dresden (Germany)\nDate: July, 5th 2024\nVisit the event: GenAI\n\nAlgo-trading & DeFi Methods and Technologies Workshop (Attendant)\n\nLocation: Politecnico di Milano, Milano (Italy)\nDate: November 7-8, 2024\nVisit the event: ALGODEFI24\n\n\n\n\nTalks\n\nBlockchain Technology and Sustainability\n\nLocation: University College of London, (London, UK)\nDate: November 4, 2024\nVisit the event Blockchain Technology and Sustainability"
+  }
+]
