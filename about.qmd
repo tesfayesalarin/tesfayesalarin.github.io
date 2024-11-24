@@ -1,18 +1,18 @@
 ---
 title: "About"
-image: profile.jpg
+image: me.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
+    - icon: x
       text: Twitter
-      href: https://twitter.com
+      href: https://x.com/TSalarin
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/tesfaye-salarin-8751b7184/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/tesfayesalarin
 ---
 
 About this blog

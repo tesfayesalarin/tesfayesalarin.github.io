@@ -14,6 +14,8 @@ website:
       file: talks.qmd
     - text: "Publications"
       file: Publications.qmd
+    - text: "Contacts"
+      file: Contacts.qmd
     #- text: "Public"
     right:
       - about.qmd

@@ -1,15 +1,15 @@
 I am actively involved in research at the intersection of finance, technology, and economics. My work explores topics such as high-frequency trading, market microstructure, and the application of machine learning in financial markets. I am also exploring the role of blockchain in sustainable finance. Stay tuned for my upcoming publications and contributions to the field.
 
 # Recent works
+
 <div style="text-align: justify;">
 
-## 1. Salarin, T., et al. (2024). Estimating the short-term stock market reaction to non-financial information: An event-study approach on ESG news. 
+## 1. Salarin, T., et al. (2024). Estimating the short-term stock market reaction to non-financial information: An event-study approach on ESG news.
 
-- **Abstract :** Using an event-study approach, this study investigates the intraday stock market response to firm-specific Environmental, Social, and Governance (ESG) news. Leveraging a unique dataset comprising intraday financial data and 1,381 ESG-related news headlines from 30 Dow Jones Industrial Average (DJIA) companies between January and March 2023, we examine the impact of ESG news on trading volumes and stock returns. News is classified by ESG pillar and sentiment using GPT-4, a state of the art of Large Language Models (LLM). Our findings indicate that environmental news leads to short-term positive stock price reactions, although the effect dissipates beyond a 21-minute window. Social news generates inconsistent and minor market responses, while governance news significantly impacts stock returns, with negative governance news having the most pronounced and persistent negative effects. These results provide new insights into the role of ESG news in high-frequency trading environments and suggest that governance issues might be a crucial concern for investors in the short term.
+-   **Abstract :** Using an event-study approach, this study investigates the intraday stock market response to firm-specific Environmental, Social, and Governance (ESG) news. Leveraging a unique dataset comprising intraday financial data and 1,381 ESG-related news headlines from 30 Dow Jones Industrial Average (DJIA) companies between January and March 2023, we examine the impact of ESG news on trading volumes and stock returns. News is classified by ESG pillar and sentiment using GPT-4, a state of the art of Large Language Models (LLM). Our findings indicate that environmental news leads to short-term positive stock price reactions, although the effect dissipates beyond a 21-minute window. Social news generates inconsistent and minor market responses, while governance news significantly impacts stock returns, with negative governance news having the most pronounced and persistent negative effects. These results provide new insights into the role of ESG news in high-frequency trading environments and suggest that governance issues might be a crucial concern for investors in the short term.
 
 *Keywords*: ESG news, ESG sentiment, event-study, intraday stock returns, AI, high-frequency trading
 
-
-- *Update*: Currently under submission to Journal of Banking and Finance, Generative AI in Finance Special Issue [GenAI](https://www.sciencedirect.com/special-issue/293046/generative-ai-in-finance).
+-   *Update*: Currently under submission to Journal of Banking and Finance, Generative AI in Finance Special Issue [GenAI](https://www.sciencedirect.com/special-issue/293046/generative-ai-in-finance).
 
 <div>
