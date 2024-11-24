@@ -27,7 +27,7 @@ website:
         href: https://www.linkedin.com/in/tesfaye-salarin-8751b7184/
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
 
 editor: visual

@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Find me at:"
 image: me.jpg
 about:
   template: jolla
