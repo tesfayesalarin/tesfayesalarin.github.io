@@ -11,5 +11,5 @@ I am actively involved in research at the intersection of finance, technology, a
 *Keywords*: ESG news, ESG sentiment, event-study, intraday stock returns, AI, high-frequency trading
 
 -   *Update*: Currently under submission to Journal of Banking and Finance, Generative AI in Finance Special Issue [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5040946).
-prova
+
 <div>
