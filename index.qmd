@@ -1,6 +1,6 @@
 ---
 title: "Tesfaye Sebastiano Salarin, PhD Candidate" 
-image: me.jpg 
+image: LinkdIn_Pic_dec24.jpg 
 about:   
   template: jolla   
   links:     
