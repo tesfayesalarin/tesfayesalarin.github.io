@@ -45,7 +45,7 @@
 # Workshops
 
 ::: {style="text-align: justify;"}
-**Generative AI in Finance SI Paper Development Workshop** (Prresenter)
+**Generative AI in Finance SI Paper Development Workshop** (Presenter)
 
 -   **Location:** Impact Hub Dresden - Galerie, Dresden (Germany)
 
