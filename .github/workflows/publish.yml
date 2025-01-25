@@ -12,20 +12,13 @@ jobs:
       # Step 1: Check out the code
       - uses: actions/checkout@v3
 
-      # Step 2: Install Quarto manually
-      - name: Install Quarto
-        run: |
-          wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.13/quarto-linux-amd64.tar.gz
-          sudo tar -xvzf quarto-linux-amd64.tar.gz -C /usr/local/bin --strip-components=1
-          quarto check install
+      # Step 2: Use Quarto GitHub Action
+      - uses: quarto-dev/quarto-actions@v2
+        with:
+          target: docs
 
-      # Step 3: Render the site
-      - name: Render Site
-        run: |
-          quarto render
-
-      # Step 4: Commit and Push Changes
-      - name: Deploy Site
+      # Step 3: Commit and Push Changes
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
