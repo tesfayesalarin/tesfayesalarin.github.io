@@ -16,6 +16,9 @@ website:
       file: Publications.qmd
     - text: "Contacts"
       file: Contacts.qmd
+    - text: "Reviews"
+      file: reviews.qmd
+  
     #- text: "Public"
     right:
       - about.qmd
