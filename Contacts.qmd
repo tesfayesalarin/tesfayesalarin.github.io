@@ -9,3 +9,20 @@ University of Trento : tesfaye.salarin\@unitn.it
 
 Personal : sebastianosalarin\@gmail.com
 :::
+
+---
+title: "Find me at:"
+image: me.jpg
+about:
+  template: jolla
+  links:
+    - icon: x
+      text: Twitter
+      href: https://x.com/TSalarin
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tesfaye-salarin-8751b7184/
+    - icon: github
+      text: Github
+      href: https://github.com/tesfayesalarin
+---

@@ -20,14 +20,14 @@ website:
       file: reviews.qmd
   
     #- text: "Public"
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/tesfayesalarin
-      - icon: x
-        href: https://x.com/TSalarin
-      - icon: linkedin
-        href: https://www.linkedin.com/in/tesfaye-salarin-8751b7184/
+#    right:
+#      - about.qmd
+#      - icon: github
+#        href: https://github.com/tesfayesalarin
+#      - icon: x
+#        href: https://x.com/TSalarin
+#      - icon: linkedin
+#        href: https://www.linkedin.com/in/tesfaye-salarin-8751b7184/
 format:
   html:
     theme: lux
