@@ -15,7 +15,7 @@ jobs:
       # Step 2: Install Quarto manually
       - name: Install Quarto
         run: |
-          wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.196/quarto-linux-amd64.tar.gz
+          wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.13/quarto-linux-amd64.tar.gz
           sudo tar -xvzf quarto-linux-amd64.tar.gz -C /usr/local/bin --strip-components=1
           quarto check install
 
