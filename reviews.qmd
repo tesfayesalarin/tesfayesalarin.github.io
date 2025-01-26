@@ -1,5 +1,9 @@
-##Testimonials
+# Testimonials
 
 ::: {.callout-note}
-"Tesfaye is an incredible mentor and researcher in financial markets."  
-**— Dr. Jane Smith**
+
+"Over the past two academic years, Dr. Tesfaye Salarin's has worked as a Teaching Assistant (TA) in my courses within the Department of Economics and Management, University of Trento, Italy. He has consistently demonstrated a high level of competence, dedication, and commitment to student learning. The student evaluations of Dr. Salarin's teaching have been overwhelmingly positive. Several students have written unsolicited comments praising Dr. Salarin's teaching style and his dedication to student success."
+
+\*\*--- Professor Jacopo Staiano, University of Trento (Italy)\*\*
+
+:::
