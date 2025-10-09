@@ -2,14 +2,30 @@ I am actively involved in research at the intersection of finance, technology, a
 
 # Recent works
 
-<div style="text-align: justify;">
-
-## 1. Salarin, T., et al. (2024). Estimating the short-term stock market reaction to non-financial information: An event-study approach on ESG news.
+:::::: {style="text-align: justify;"}
+## 1. Salarin, T., et al. (2024). Estimating the short-term stock market reaction to non-financial information: An event-study approach on ESG news
 
 -   **Abstract :** Using an event-study approach, this study investigates the intraday stock market response to firm-specific Environmental, Social, and Governance (ESG) news. Leveraging a unique dataset comprising intraday financial data and 1,381 ESG-related news headlines from 30 Dow Jones Industrial Average (DJIA) companies between January and March 2023, we examine the impact of ESG news on trading volumes and stock returns. News is classified by ESG pillar and sentiment using GPT-4, a state of the art of Large Language Models (LLM). Our findings indicate that environmental news leads to short-term positive stock price reactions, although the effect dissipates beyond a 21-minute window. Social news generates inconsistent and minor market responses, while governance news significantly impacts stock returns, with negative governance news having the most pronounced and persistent negative effects. These results provide new insights into the role of ESG news in high-frequency trading environments and suggest that governance issues might be a crucial concern for investors in the short term.
 
 *Keywords*: ESG news, ESG sentiment, event-study, intraday stock returns, AI, high-frequency trading
 
--   *Update*: Currently under submission to Journal of Banking and Finance, Generative AI in Finance Special Issue [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5040946).
+-   *Update*: Currently under submission at International Review of Financial Analysis [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5040946).
 
 <div>
+
+:::: {style="text-align: justify;"}
+## 2. Aufiero, S., Briola, A., Salarin, T., Caccioli, F., Bartolucci, S., & Aste, T. (2025). Cryptocurrencies in the Balance Sheet: Insights from (Micro) Strategy--Bitcoin Interactions
+
+-   **Abstract :** This paper investigates the evolving link between cryptocurrency and equity markets in the context of the recent wave of corporate Bitcoin (BTC) treasury strategies. We assemble a dataset of 39 publicly listed firms holding BTC, from their first acquisition through April 2025. Using daily logarithmic returns, we first document significant positive co-movements via Pearson correlations and single factor model regressions, discovering an average BTC beta of 0.62, and isolating 12 companies, including Strategy (formerly MicroStrategy, MSTR), exhibiting a beta exceeding 1. We then classify firms into three groups reflecting their exposure to BTC, liquidity, and return co-movements. We use transfer entropy (TE) to capture the direction of information flow over time. Transfer entropy analysis consistently identifies BTC as the dominant information driver, with brief, announcement-driven feedback from stocks to BTC during major financial events. Our results highlight the critical need for dynamic hedging ratios that adapt to shifting information flows. These findings provide important insights for investors and managers regarding risk management and portfolio diversification in a period of growing integration of digital assets into corporate treasuries.
+
+*Keywords*: Bitcoin, Microstrategy, Information Flow, Transfer Entropy
+
+-   *Update*: Currently under submission at *Journal of Social Physics* [arXiv](https://arxiv.org/abs/2505.14655).
+
+<div>
+
+</div>
+::::
+
+</div>
+::::::

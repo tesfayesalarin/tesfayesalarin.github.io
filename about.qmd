@@ -1,18 +1,10 @@
 ---
-title: "Find me at:"
-image: me.jpg
-about:
-  template: jolla
-  links:
-    - icon: x
-      text: Twitter
-      href: https://x.com/TSalarin
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/tesfaye-salarin-8751b7184/
-    - icon: github
-      text: Github
-      href: https://github.com/tesfayesalarin
+format: html
 ---
 
-About this blog
+<img src="research.jpg" style="width:350px; border-radius:350%;">
+
+::: {style="text-align: justify;"}
+**Tesfaye Sebastiano Salarin** is currently a PhD Candidate in Economics and Management at the *University of Trento* and a Visiting PhD at [EconophysiX Lab](https://www.econophysix.com/) (part of the Capital Fund Management, CFM) in Paris. Previously, he was a Visiting PhD at the Department of Computer Science of the *University College of London* with the [Financial Computing and Analytics](https://www.ucl.ac.uk/computer-science/research/research-groups/financial-computing-and-analytics) research group. He holds an MSc in Finance from *Cà Foscari University*. His research focuses on **Market Microstructure**, **High-Frequency Trading**, **Algorithmic Trading**, and **Computational Finance**. Lately, he has been broadening his research interests to **Machine Learning** applications and **Mathematical Finance**, with a specific focus on using NLP models for financial market prediction. He is passionate about learning, FinTech, Blockchain Technology, and Cryptocurrencies. He has teaching experience in Computer Programming with RStudio and Microeconomics (double language: English and Italian). He is also interested in the intersection of LLMs and financial markets. Tesfaye is currently open to opportunities in quantitative research beginning after the completion of his PhD.
+:::
+

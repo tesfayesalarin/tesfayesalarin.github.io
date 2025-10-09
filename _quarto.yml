@@ -7,17 +7,19 @@ website:
   navbar:
     left:
     - text: "Home"
-      file: index.qmd 
+      file: index.qmd
+    #- text: "About"
+    # file: about.qmd
     - text: "CV"
       file: cv.qmd
     - text: "Presentations"
       file: talks.qmd
-    - text: "Publications"
+    - text: "Research/Publications"
       file: Publications.qmd
+    #- text: "Reviews"
+     # file: reviews.qmd
     - text: "Contacts"
       file: Contacts.qmd
-    - text: "Reviews"
-      file: reviews.qmd
   
     #- text: "Public"
 #    right:

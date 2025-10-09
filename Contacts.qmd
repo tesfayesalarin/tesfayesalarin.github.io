@@ -1,18 +1,6 @@
-# Contacts
-
-::: {style="text-align: justify;"}
-## E-mail(s)
-
-University College of London : tsalarin\@ucl.ac.uk
-
-University of Trento : tesfaye.salarin\@unitn.it
-
-Personal : sebastianosalarin\@gmail.com
-:::
-
 ---
-title: "Find me at:"
-image: me.jpg
+title: "Let's get to know each other!"
+image: LinkdIn_Pic_dec24.jpg
 about:
   template: jolla
   links:
@@ -26,3 +14,9 @@ about:
       text: Github
       href: https://github.com/tesfayesalarin
 ---
+
+## E-mail(s)
+
+University of Trento: [tesfaye.salarin@unitn.it](mailto:tesfaye.salarin@unitn.it)  
+University College London: [tsalarin@ucl.ac.uk](mailto:tsalarin@ucl.ac.uk)  
+Personal email: [sebastianosalarin@gmail.com](mailto:sebastianosalarin@gmail.com)
