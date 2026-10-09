@@ -9,15 +9,15 @@ website:
     - text: "Home"
       file: index.qmd
     - text: "About"
-     file: about.qmd
+      file: about.qmd
     - text: "CV"
       file: cv.qmd
     - text: "Presentations"
       file: talks.qmd
-    - text: "Research/Publications"
+    - text: "Research"
       file: Publications.qmd
-    #- text: "Reviews"
-     # file: reviews.qmd
+    - text: "Recent work"
+      file: recent_work.qmd
     - text: "Contacts"
       file: Contacts.qmd
   
